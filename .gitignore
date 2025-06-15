@@ -11,3 +11,7 @@
 
 # Output of the go coverage tool
 *.out
+
+# Environment files
+.env
+.env.*
