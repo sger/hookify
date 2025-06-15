@@ -14,6 +14,7 @@ import (
 )
 
 func main() {
+
 	fmt.Println("Welcome to Hookify!")
 
 	if err := godotenv.Load(); err != nil {
